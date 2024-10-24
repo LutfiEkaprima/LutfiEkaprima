@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lutfi Ekaprima Jannata</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfiekaprima&label=Profile%20views&color=0e75b6&style=flat" alt="lutfiekaprima" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Laravel, React Native**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **lutfiekj@gmail.com**
 

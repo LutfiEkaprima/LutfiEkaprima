@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="223" src="https://media1.tenor.com/m/En70nU56TTAAAAAd/tiger-tank.gif"  />
 
 ###
 

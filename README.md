@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lutfiekaprima/Lutfiekaprima/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LutfiEkaprima/LutfiEkaprima/output/snake.svg" alt="Snake animation" />
 
 ###
